@@ -10481,6 +10481,19 @@ body {
     line-height: 4rem;
   }
 }
+@media (max-width: 980px) {
+  .movil-none {
+    display: none;
+  }
+  .mb-5 {
+    margin-bottom: 0rem !important;
+  }
+  .nav-link {
+    display: block;
+    text-align: center;
+    padding: 0.5rem 1rem;
+  }
+}
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
@@ -10494,6 +10507,9 @@ body {
   .masthead h2 {
     max-width: 30rem;
     font-size: 1.25rem;
+  }
+  .mbr-arrow {
+    display: inline-block;
   }
 }
 
@@ -10588,6 +10604,7 @@ body {
     padding-bottom: 5rem;
     padding-left: 4rem;
   }
+  
   .projects-section .project-text-red {
     padding-top: 5rem;
     padding-bottom: 0.5rem !important;
