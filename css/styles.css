@@ -10531,6 +10531,12 @@ body {
   padding: 3rem;
   font-size: 90%;
 }
+
+.projects-section .header-text {
+  padding: 3rem;
+  font-size: 90%;
+}
+
 .projects-section .project-text-gray {
   padding: 3rem;
   font-size: 90%;
