@@ -7391,12 +7391,12 @@ button.bg-danger:focus {
 }
 
 .desarrollo_web {
-  color: white;
+   color: #11bdd2;
 }
 
 .desarrollo_web:hover,
 .desarrollo_web:focus {
-  color: #11bdd2;
+  color: white;
   text-decoration: none !important;
 }
 
